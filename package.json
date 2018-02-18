@@ -1,0 +1,13 @@
+{
+  "name": "seraan",
+  "version": "1.0.0",
+  "description": "Testing things for SERAAN",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dbf-parser": "^0.0.1",
+    "dbffile": "^0.7.3",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
